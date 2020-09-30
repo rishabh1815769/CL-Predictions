@@ -1,4 +1,4 @@
-# Champions League Group Standings Predictions
+# Champions League Group Standings Predictions 2020
 
 In this study, I predicted the match outcomes, thus the group standings in UEFA Champions League
 season 2019-2020 by developing a statistical model that uses player ratings to determine the outcome of the match.
